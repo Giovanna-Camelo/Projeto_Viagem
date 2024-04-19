@@ -1,4 +1,3 @@
-Descrição do Projeto: 
 Objetivo: 
 Desenvolver um sistema que permita aos usuários personalizar suas viagens de acordo com suas preferências, gerenciar um orçamento definido e visualizar os detalhes e custos da viagem planejada.
 
